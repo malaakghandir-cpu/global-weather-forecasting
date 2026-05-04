@@ -72,7 +72,7 @@ Run all cells in order from top to bottom. The notebook is self-contained — al
 
 ## Requirements
 
-See `requirements.txt` for the full list. Key dependencies:
+Key dependencies:
 
 ```
 pandas
