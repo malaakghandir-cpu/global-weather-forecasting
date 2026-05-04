@@ -199,7 +199,7 @@ MAE, RMSE, MAPE, R², MASE, Directional Accuracy
 
 ## Demo Video
 
-[Link to demo video]
+[Link to demo video](https://drive.google.com/file/d/1Q7oo1eEvK3BRiJTIIlXMM9JJqGcVh8Y9/view?usp=drive_link)
 
 ---
 
