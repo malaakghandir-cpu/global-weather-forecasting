@@ -8,7 +8,5 @@ statsmodels
 scikit-learn
 xgboost
 shap
-pycountry
-fuzzywuzzy
-python-Levenshtein
 jupyter
+ipykernel
