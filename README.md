@@ -82,10 +82,9 @@ statsmodels
 scikit-learn
 xgboost
 shap
-pycountry
-fuzzywuzzy
-python-Levenshtein
 jupyter
+ipykernel
+
 ```
 
 Install all at once:
