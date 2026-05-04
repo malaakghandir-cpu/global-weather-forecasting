@@ -27,10 +27,7 @@ The primary forecasting target is global daily mean temperature. Six models are 
 ```
 ├── weather_analysis_final.ipynb   # Main Jupyter notebook — full pipeline
 ├── Final report.pdf               # Written technical report
-├── GlobalWeatherRepository.csv    # Raw dataset
 ├── requirements.txt               # Python dependencies
-├── spatial_comfort_map.html       # Interactive city comfort index map
-├── spatial_aq_heatmap.html        # Interactive air quality heatmap
 └── README.md                      # This file
 ```
 
